@@ -1,13 +1,1 @@
-Make links on resume page open new tab, not go there on current tab
-capitalize email on bottom of resume
-Fix line break on resume experirence. Probably just get rid of them
-Add lines underneath Headers on resume
-Add commas in between location and job title. 
-Alpine valley music theater
-Get rid of the Dylan Marchese's personal Website part at the top
 Add an image at the home screen
-Change "look at my writing on the home page to look at projects
-write about the chess data project
-Fix fairvote link on about page and get rid of message box.
-Add all socials on the sidebar above my email with the little logos.
-Figure out how to get the images to actually appear
