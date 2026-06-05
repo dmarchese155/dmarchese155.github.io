@@ -1,40 +1,9 @@
-.social-icons {
-  display: flex;
-  gap: 12px;
-  align-items: center;
-  margin: 8px 0;
-}
-
 .social-icons a {
   color: inherit;
-  font-size: 1.2rem;
-  opacity: 0.8;
   text-decoration: none;
-  display: flex;
-  align-items: center;
+  opacity: 0.8;
 }
 
 .social-icons a:hover {
-  opacity: 1;
-}
-
-.social-icons i {
-  font-size: 1.2rem;
-  width: 20px;
-  height: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.social-icons img {
-  width: 20px;
-  height: 20px;
-  opacity: 0.8;
-  vertical-align: middle;
-  filter: grayscale(100%) brightness(10);
-}
-
-.social-icons img:hover {
   opacity: 1;
 }
