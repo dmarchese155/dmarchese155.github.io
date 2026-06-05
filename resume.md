@@ -6,12 +6,14 @@ title: Resume
 <a href="{{ '/public/dylanmarcheseresume.pdf' | relative_url }}" 
    target="_blank">Download my resume (PDF)</a>
 
+---
 ## Summary
 ---
 Second year Economics & Public Policy student at the University of 
 Chicago. Currently doing research and data analysis at FairVote. 
-Interested in public sector economics and electoral policy.
+Interested in public sector economics and electoral policy.  
 
+---
 ## Education
 ---
 **The University of Chicago**, Chicago, IL  
@@ -25,7 +27,7 @@ Interested in public sector economics and electoral policy.
   **Honors**  
   Summa Cum Laude (2025), Salutatorian (2025)  
 
-
+---
 ## Experience
 ---
 **FairVote**, Washington, DC  
@@ -46,7 +48,7 @@ Interested in public sector economics and electoral policy.
  - Maintained security for a concert venue reaching 29,000 attendees  
  - Verified proper credentials to access secured areas  
 
-
+---
 ## Leadership & Activities
 ---
 **Future Business Leaders of America**, Burlington, WI  
@@ -54,17 +56,14 @@ Interested in public sector economics and electoral policy.
  - Organized 4 presentations from local business owners to the club to provide insight into entrepreneurship and managing a business
  - Earned third place awards at the state level in Economics and Accounting
 
+---
 ## Skills
 ---
 **Computer:** Proficient in Microsoft Word, Excel, PowerPoint, and Python
 
+---
 ## Contact
 ---
 <a href="mailto:dylan@dylanmarchese.com" target="_blank" rel="noopener noreferrer">Email</a> · 
 <a href="https://www.linkedin.com/in/dylan-marchese/" target="_blank" rel="noopener noreferrer">Linkedin</a> · 
 <a href="https://github.com/dmarchese155" target="_blank" rel="noopener noreferrer">GitHub</a>
-<!-->
-[Email](mailto:dylan@dylanmarchese.com) · 
-[LinkedIn](https://www.linkedin.com/in/dylan-marchese/) · 
-[GitHub](https://github.com/dmarchese155)
--->
