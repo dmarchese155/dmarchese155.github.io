@@ -2,7 +2,7 @@
 title:               Dylan Marchese
 tagline:             "Dylan Marchese's personal website."
 description:         "Dylan Marchese's personal website."
-url:                 http://dylanmarchese.com
+url:                 https://dylanmarchese.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
