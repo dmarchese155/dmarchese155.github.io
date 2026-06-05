@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Second Year student at the University of Chicago from Wisconsin. Currently interning with [FairVote](https://fairvote.org) over the summer.
-</p>
+
+Second Year student at the University of Chicago from Wisconsin. Currently interning with [FairVote](https://fairvote.org/) over the summer.
+
 
 I am studying Economics and Public Policy and am interested in fiscal policy. At FairVote I'm working on the development team, working on developing donor relations and back end data related to donors. 
 
