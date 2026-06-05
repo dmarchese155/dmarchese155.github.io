@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+order: 2
 ---
 
 <a href="{{ '/public/dylanmarcheseresume.pdf' | relative_url }}" 
@@ -17,12 +18,12 @@ Interested in public sector economics and electoral policy.
 ## Education
 ---
 **The University of Chicago**, Chicago, IL  
-  *B.A. Economics & Public Policy*, Expected [2029]  
+  *B.A. Economics & Public Policy*, Expected 2029  
   GPA: 3.94/4.00  
 
 
 **Burlington High School**, Burlington, WI  
-  *High School Diploma*, [2025]  
+  *High School Diploma*, 2025  
   GPA: 3.98/4.00  
   **Honors**  
   Summa Cum Laude (2025), Salutatorian (2025)  
