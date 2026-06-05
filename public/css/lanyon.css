@@ -532,6 +532,18 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* Custom Dylan Flavored Color Scheme */
+.theme-base-custom .sidebar,
+.theme-base-custom .sidebar-toggle:active,
+.theme-base-custom #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #386641;
+}
+.theme-base-custom .container a,
+.theme-base-custom .sidebar-toggle,
+.theme-base-custom .related-posts li a:hover {
+  color: #6a994e;
+}
+
 
 /*
  * Overlay sidebar
