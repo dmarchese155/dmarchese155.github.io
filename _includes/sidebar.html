@@ -12,7 +12,7 @@
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" 
        href="{{ '/' | relative_url }}">Home</a>
 
-    {% assign pages_list = site.pages | sort:"url" %}
+    {% assign pages_list = site.pages | sort:"order" %}
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
@@ -24,25 +24,28 @@
 
     <a class="sidebar-nav-item{% if page.title == 'Projects' %} active{% endif %}"
        href="{{ '/projects' | relative_url }}">Projects</a>
+
+    <a class="sidebar-nav-item{% if page.title == 'Contact' %} active{% endif %}"
+       href="{{ '/contact' | relative_url }}">Contact</a>
   </nav>
 
   <div class="sidebar-item">
     <p>Dylan Marchese</p>
     <div style="display:flex; gap:12px; align-items:center; margin:8px 0;">
       <a href="https://github.com/dmarchese155" target="_blank" title="GitHub" style="display:flex; align-items:center;">
-        <i class="fa-brands fa-github" style="font-size:20px;"></i>
+        <i class="fa-brands fa-github" style="font-size:30px;"></i>
       </a>
       <a href="https://instagram.com/dylan__marchese" target="_blank" title="Instagram" style="display:flex; align-items:center;">
-        <i class="fa-brands fa-instagram" style="font-size:20px;"></i>
+        <i class="fa-brands fa-instagram" style="font-size:30px;"></i>
       </a>
       <a href="https://linkedin.com/in/dylan-marchese" target="_blank" title="LinkedIn" style="display:flex; align-items:center;">
-        <i class="fa-brands fa-linkedin" style="font-size:20px;"></i>
+        <i class="fa-brands fa-linkedin" style="font-size:30px;"></i>
       </a>
       <a href="https://www.chess.com/member/dylan123234" target="_blank" title="Chess.com" style="display:flex; align-items:center;">
-        <i class="fa-regular fa-chess-pawn" style="font-size:20px;"></i>
+        <i class="fa-regular fa-chess-pawn" style="font-size:30px;"></i>
       </a>
       <a href="https://lichess.org/@/dylan23234" target="_blank" title="Lichess" style="display:flex; align-items:center;">
-        <i class="fa-regular fa-chess-knight" style="font-size:20px;"></i>
+        <i class="fa-regular fa-chess-knight" style="font-size:30px;"></i>
       </a>
     </div>
     <p><a href="mailto:dylan@dylanmarchese.com">dylan@dylanmarchese.com</a></p>
