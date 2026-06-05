@@ -1,7 +1,7 @@
 # Setup
 title:               Dylan Marchese
-tagline:             "Dylan Marchese's personal website."
-description:         "Dylan Marchese's personal website."
+tagline:             ""
+description:         ""
 url:                 https://dylanmarchese.com
 baseurl:             ''
 paginate:            5
