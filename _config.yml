@@ -7,16 +7,19 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+# Markdown
+markdown:            kramdown
+kramdown:
+  input:              GFM
+
 # About/contact
 author:
   name:              Dylan Marchese
   url:               dylanmarchese.com
   email:             dylan@dylanmarchese.com
-
 # Gems
 plugins:
   - jekyll-paginate
-
 # Custom vars
 version:             1.1.0
 google_analytics_id: #UA-XXXX-Y

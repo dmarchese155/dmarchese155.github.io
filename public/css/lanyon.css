@@ -568,3 +568,41 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/* Table styling */
+.container table {
+  width: 100%;
+  margin: 1.5em 0;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.container table th,
+.container table td {
+  padding: 0.5em 0.75em;
+  border: 1px solid #d6d6d6;
+  text-align: left;
+}
+
+.container table th {
+  background-color: #386641;
+  color: #fff;
+  font-weight: 600;
+}
+
+.container table tr:nth-child(even) {
+  background-color: #f4f7f2;
+}
+
+.container table tr:hover {
+  background-color: #e8f0e3;
+}
+
+/* Let wide tables scroll on mobile instead of breaking layout */
+@media (max-width: 48em) {
+  .container table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
